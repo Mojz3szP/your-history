@@ -1,0 +1,11 @@
+.article{
+    margin: auto;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.article__company{
+    font-weight:bolder;
+    color: darkgreen;
+    text-decoration:underline;
+}

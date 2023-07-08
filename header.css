@@ -1,0 +1,10 @@
+.header{
+    margin: auto;
+    padding: auto;
+    font-size: 90px;
+
+}
+.header__company{
+    font-weight:bolder;
+    color: darkgreen;
+}
