@@ -15,6 +15,10 @@
 .table__head{
     font-size: 30px;
     font-weight: bolder;
+    background-color: rgb(3, 100, 3);
+    font-weight: normal;
+    color: white;
+    border: 1px solid #000000
 }
 
 .table__cell{
@@ -26,14 +30,8 @@
     color:darkgreen;
     font-weight:900;
     font-size: 30px;
+}
 
-  
-}
-.table__head{
-    background-color: rgb(3, 100, 3);
-    font-weight: normal;
-    color: white;
-}
 .table__link{
     text-decoration: none;
     color: darkgreen; 
