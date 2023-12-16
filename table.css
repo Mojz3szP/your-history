@@ -1,9 +1,9 @@
 .table{
     max-width: 500;
     border-width: thick;
-    border-color: rgb(3, 100, 3);
+    border-color: rgb(0, 0, 0);
     border-style: double;
-    background-color: rgba(185, 246, 164, 0.267); 
+    background-color: gold1; 
     margin: auto;
     padding: auto;
     font-size: 12px;
@@ -15,9 +15,9 @@
 .table__head{
     font-size: 30px;
     font-weight: bolder;
-    background-color: rgb(3, 100, 3);
-    font-weight: normal;
-    color: white;
+    background-color:goldenrod;
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
     border: 1px solid #000000
 }
 
@@ -27,20 +27,20 @@
 }
 .table__caption{
     text-align:center;
-    color:darkgreen;
-    font-weight:900;
+    color:rgb(0, 0, 0);
+    font-weight:bolder;
     font-size: 30px;
 }
 
 .table__link{
     text-decoration: none;
-    color: darkgreen; 
+    color: rgb(0, 0, 0); 
     font-weight: bolder;
 }
 .table--dark{
     max-width: 900px;
-   border:thick darkgreen double;
-   background-color:khaki;
+   border:thick rgb(255, 255, 255) double;
+   background-color:rgb(243, 229, 149);
    margin: auto;
    padding: auto;
    font-size: 12px;
