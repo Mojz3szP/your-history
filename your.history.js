@@ -3,12 +3,13 @@ let welcome = () => {
 }
 
 
-let button = document.querySelector(".js-button");
-let body = document.querySelector(".js-body");
-let table = document.querySelector(".js-table");
-let tableHead = document.querySelector(".js-table_head");
-let allstyle = document.querySelector(".js-allstyle");
 
+
+const init = () => {
+    const button = document.querySelector(".js-button");
+    const body = document.querySelector(".js-body");
+    const table = document.querySelector(".js-table");
+    const allstyle = document.querySelector(".js-allstyle");    
 button.addEventListener("click", () => {
     body.classList.toggle("body--dark");
     table.classList.toggle("table--dark");
@@ -19,5 +20,5 @@ button.addEventListener("click", () => {
         allstyle.innerText = "ciemny";
     }
 });
-
-
+};
+init();
