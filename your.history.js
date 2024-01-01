@@ -1,4 +1,6 @@
-console.log("siemanko!");
+let welcome = () => {
+  console.log("Hello");
+}
 
 
 let button = document.querySelector(".js-button");
@@ -17,4 +19,5 @@ button.addEventListener("click", () => {
         allstyle.innerText = "ciemny";
     }
 });
+
 
