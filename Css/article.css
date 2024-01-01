@@ -1,0 +1,13 @@
+.article{
+    margin: auto;
+    padding: 20px;
+    font-size: 30px;
+    text-align: justify;
+    flex-wrap: wrap;
+}
+
+.article__company{
+    font-weight:bolder;
+    color:rgb(89, 79, 26);
+    text-decoration:underline;
+}
