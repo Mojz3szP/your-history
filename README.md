@@ -1,7 +1,7 @@
 # Cześć,
 
-# jeśli masz problemy z nauką Historii, to mam dla Ciebie rozwiązanie...
+# jeśli masz problemy z nauką Historii, to mam dla Ciebie rozwiązanie. Zapraszamy do świata Your.History w którym poznasz hisotrie na nowo.
 
 [Your-history - kliknij tutaj](https://mojz3szp.github.io/your-history/your.history.html)
 
-![The book](https://github.com/Mojz3szP/your-history/blob/main/image/Beige%20and%20Gray%20Minimalist%20Quote%20Instagram%20Post.png?raw=true)
+![The book](./image/Zrzut%20ekranu.png)
