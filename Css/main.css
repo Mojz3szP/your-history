@@ -1,12 +1,12 @@
-.main{
-    padding-left: auto;
-    padding-right: auto;
-    padding-top: 60px;
-    padding-bottom: 10px;
-    margin: auto;
-    font-size: 40px;
-    font-weight: bolder;
+.main {
+  padding-left: auto;
+  padding-right: auto;
+  padding-top: 60px;
+  padding-bottom: 10px;
+  margin: auto;
+  font-size: 40px;
+  font-weight: bolder;
 }
-.main__container{
-    overflow-x:auto ;
+.main__container {
+  overflow-x: auto;
 }
